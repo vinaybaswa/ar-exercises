@@ -1,5 +1,4 @@
 require_relative '../setup'
-require_relative '../lib/store'
 
 puts "Exercise 1"
 puts "----------"
